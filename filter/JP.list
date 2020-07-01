@@ -1,0 +1,31 @@
+# > Twitter
+HOST-KEYWORD,twitter,JP
+
+# > Abema
+USER-AGENT,AbemaTV*,JP
+HOST-SUFFIX,abema.io,JP
+HOST-SUFFIX,abema.tv,JP
+HOST-SUFFIX,akamaized.net,JP
+HOST-SUFFIX,ameba.jp,JP
+HOST-SUFFIX,hayabusa.io,JP
+
+# > SHOWROOM
+HOST-KEYWORD,showroom,JP
+
+# > TikTok
+USER-AGENT,TikTok*,JP
+HOST-SUFFIX,muscdn.com,JP
+HOST-SUFFIX,musical.ly,JP
+HOST-SUFFIX,tiktokv.com,JP
+HOST-SUFFIX,tiktokcdn.com,JP
+HOST-KEYWORD,-tiktokcdn-com,JP
+
+# > Spotify
+USER-AGENT,Spotify*,JP
+HOST-SUFFIX,pscdn.co,JP
+HOST-SUFFIX,scdn.co,JP
+HOST-SUFFIX,spoti.fi,JP
+HOST-SUFFIX,spotify.com,JP
+
+# > pixiv
+HOST-SUFFIX,pixiv.net,JP
