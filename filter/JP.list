@@ -1,6 +1,6 @@
 # > Twitter
 HOST-KEYWORD,twitter,JP
-HOST-SUFFIX,twimg.com.JP
+HOST-SUFFIX,twimg.com,JP
 
 # > Abema
 USER-AGENT,AbemaTV*,JP
